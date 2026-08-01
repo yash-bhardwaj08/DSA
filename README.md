@@ -6,5 +6,14 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yash-bhardwaj08/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
