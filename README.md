@@ -1,2 +1,10 @@
 # DSA
 Java solutions to LeetCode problems with optimized approaches, explanations, and clean code. Collection of LeetCode solutions in Java, covering Data Structures, Algorithms, and Interview Problems. My LeetCode journey in Java – well-structured, optimized, and interview-ready solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/yash-bhardwaj08/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+<!---LeetCode Topics End-->
