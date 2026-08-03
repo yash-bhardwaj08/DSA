@@ -7,11 +7,13 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yash-bhardwaj08/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
