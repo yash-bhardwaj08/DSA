@@ -15,6 +15,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
@@ -28,4 +29,12 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
