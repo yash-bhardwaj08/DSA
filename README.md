@@ -22,6 +22,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
@@ -44,4 +45,5 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
