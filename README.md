@@ -21,6 +21,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
+| [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -36,6 +37,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
+| [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,12 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
