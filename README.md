@@ -23,6 +23,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -49,6 +50,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
@@ -63,4 +65,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
