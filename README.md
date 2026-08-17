@@ -17,6 +17,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
@@ -57,10 +59,12 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
@@ -77,5 +81,6 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
