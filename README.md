@@ -22,6 +22,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
@@ -83,4 +84,5 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
