@@ -24,6 +24,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +76,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -85,4 +88,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
