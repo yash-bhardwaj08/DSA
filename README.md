@@ -42,6 +42,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash-bhardwaj08/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
@@ -73,6 +74,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash-bhardwaj08/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
 ## Sliding Window
@@ -87,6 +89,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash-bhardwaj08/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
@@ -98,4 +101,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash-bhardwaj08/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
