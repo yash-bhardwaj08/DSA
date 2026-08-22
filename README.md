@@ -62,6 +62,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
@@ -72,6 +73,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
@@ -92,4 +94,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
