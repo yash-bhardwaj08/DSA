@@ -67,6 +67,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -111,4 +112,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
