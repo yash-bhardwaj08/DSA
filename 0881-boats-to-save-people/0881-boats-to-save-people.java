@@ -4,30 +4,21 @@ class Solution {
         Arrays.sort(nums);
 
         int left = 0;
-        int right = nums.length - 1;
+        int right = nums.length-1;
         int count = 0;
 
-        while (left <= right) {
-
-            if (nums[right] == limit) {
-                count++;
-                right--;
-                continue;
-            }
-
+        while(left <= right){
             int sum = nums[left] + nums[right];
-
-            if (sum <= limit) {       // changed == to <=
+            if(sum <= limit){
                 count++;
                 left++;
                 right--;
-
-            } else {
+            }
+            else{
                 count++;
                 right--;
             }
         }
-
-        return count;
+    return count;
     }
 }
