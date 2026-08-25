@@ -10,14 +10,12 @@ class Solution {
         while(left <= right){
             int sum = nums[left] + nums[right];
             if(sum <= limit){
-                count++;
+                
                 left++;
-                right--;
+                
             }
-            else{
-                count++;
-                right--;
-            }
+            right--;
+            count++;
         }
     return count;
     }
