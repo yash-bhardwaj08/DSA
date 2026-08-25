@@ -20,6 +20,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
@@ -48,12 +49,14 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +119,12 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
