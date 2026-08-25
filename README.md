@@ -52,6 +52,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Sorting
@@ -75,6 +76,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -88,6 +90,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
