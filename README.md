@@ -96,12 +96,14 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0647-palindromic-substrings](https://github.com/yash-bhardwaj08/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash-bhardwaj08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash-bhardwaj08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
 | ------- |
