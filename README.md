@@ -32,6 +32,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -73,6 +74,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0209-minimum-size-subarray-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -108,6 +110,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0209-minimum-size-subarray-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash-bhardwaj08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
@@ -127,6 +130,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
