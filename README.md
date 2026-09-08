@@ -47,6 +47,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yash-bhardwaj08/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
@@ -102,6 +104,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yash-bhardwaj08/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
@@ -112,6 +115,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
