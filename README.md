@@ -31,6 +31,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -49,6 +50,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash-bhardwaj08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
