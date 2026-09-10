@@ -32,11 +32,11 @@ class Solution {
                 }
                 if(count1 == 0){
                     fruit1= nums[right];
-                    count1 = 1;
+                    count1++;
                 }
                 else{
                     fruit2 = nums[right];
-                    count2 =1;
+                    count2++;
                 }
 
             }
