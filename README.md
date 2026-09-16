@@ -26,6 +26,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -47,6 +48,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
@@ -74,6 +76,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
