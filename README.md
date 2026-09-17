@@ -15,6 +15,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0018-4sum) |
@@ -48,6 +49,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
