@@ -51,6 +51,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0001-two-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/yash-bhardwaj08/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-bhardwaj08/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0020-valid-parentheses](https://github.com/yash-bhardwaj08/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash-bhardwaj08/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/yash-bhardwaj08/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
