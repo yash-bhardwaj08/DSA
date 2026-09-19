@@ -55,6 +55,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yash-bhardwaj08/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yash-bhardwaj08/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yash-bhardwaj08/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
@@ -74,6 +75,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-bhardwaj08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yash-bhardwaj08/DSA/tree/master/0647-palindromic-substrings) |
@@ -203,9 +205,14 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash-bhardwaj08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yash-bhardwaj08/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
