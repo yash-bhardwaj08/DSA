@@ -3,8 +3,9 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         while(n!=1){
             if(set.contains(n)){
-                return false;
+                return false; // 4 → 16 → 37 → 58 → 89 → 145 → 42 → 20 → 4
             }
+            
             set.add(n);
             int sum = 0;
             while(n>0){
