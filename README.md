@@ -24,6 +24,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yash-bhardwaj08/DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/yash-bhardwaj08/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0001-two-sum](https://github.com/yash-bhardwaj08/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-bhardwaj08/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yash-bhardwaj08/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yash-bhardwaj08/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/yash-bhardwaj08/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yash-bhardwaj08/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
@@ -202,4 +204,8 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash-bhardwaj08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yash-bhardwaj08/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
