@@ -44,6 +44,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash-bhardwaj08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -117,6 +118,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
+| [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
+| [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
