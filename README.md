@@ -118,6 +118,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yash-bhardwaj08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/yash-bhardwaj08/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yash-bhardwaj08/DSA/tree/master/0735-asteroid-collision) |
@@ -130,6 +131,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yash-bhardwaj08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/yash-bhardwaj08/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -146,6 +148,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/yash-bhardwaj08/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash-bhardwaj08/DSA/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/yash-bhardwaj08/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-bhardwaj08/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
@@ -199,6 +202,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/yash-bhardwaj08/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 ## Design
