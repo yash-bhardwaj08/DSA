@@ -39,6 +39,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -117,6 +118,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
+| [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -125,6 +127,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## String
@@ -171,6 +174,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0053-maximum-subarray](https://github.com/yash-bhardwaj08/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/yash-bhardwaj08/DSA/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/yash-bhardwaj08/DSA/tree/master/0647-palindromic-substrings) |
+| [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
 | ------- |
