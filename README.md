@@ -37,6 +37,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0643-maximum-average-subarray-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yash-bhardwaj08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yash-bhardwaj08/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/yash-bhardwaj08/DSA/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/yash-bhardwaj08/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -117,6 +118,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0155-min-stack](https://github.com/yash-bhardwaj08/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/yash-bhardwaj08/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
@@ -215,6 +217,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/yash-bhardwaj08/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/yash-bhardwaj08/DSA/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
