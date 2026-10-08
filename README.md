@@ -82,6 +82,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0042-trapping-rain-water](https://github.com/yash-bhardwaj08/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yash-bhardwaj08/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/yash-bhardwaj08/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/yash-bhardwaj08/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-bhardwaj08/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -248,5 +249,6 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
