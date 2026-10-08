@@ -129,6 +129,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0907-sum-of-subarray-minimums](https://github.com/yash-bhardwaj08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/yash-bhardwaj08/DSA/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -253,4 +255,9 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0086-partition-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
