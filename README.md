@@ -71,6 +71,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0496-next-greater-element-i](https://github.com/yash-bhardwaj08/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -251,4 +252,5 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash-bhardwaj08/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
