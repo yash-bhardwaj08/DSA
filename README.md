@@ -46,6 +46,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1695-maximum-erasure-value](https://github.com/yash-bhardwaj08/DSA/tree/master/1695-maximum-erasure-value) |
 | [1991-find-the-middle-index-in-array](https://github.com/yash-bhardwaj08/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/yash-bhardwaj08/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -72,6 +73,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [0567-permutation-in-string](https://github.com/yash-bhardwaj08/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/yash-bhardwaj08/DSA/tree/master/0904-fruit-into-baskets) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/yash-bhardwaj08/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1695-maximum-erasure-value](https://github.com/yash-bhardwaj08/DSA/tree/master/1695-maximum-erasure-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yash-bhardwaj08/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@ Java solutions to LeetCode problems with optimized approaches, explanations, and
 | [1004-max-consecutive-ones-iii](https://github.com/yash-bhardwaj08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-bhardwaj08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash-bhardwaj08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/yash-bhardwaj08/DSA/tree/master/1695-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
 | ------- |
